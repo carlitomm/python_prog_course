@@ -52,6 +52,7 @@ class magnet_sensor_model():
 
 class magnet_controller():
     
+    
     @staticmethod
     def add_meassurement():
         serialConnection.write(str.encode('l'))  
@@ -60,7 +61,6 @@ class magnet_controller():
         mg.save()
         return positive_pole, negative_pole 
     @staticmethod
-    
     def delete_meassurement(id):
         return magnet_sensor_model.deleteById(id)
 
@@ -91,4 +91,3 @@ if __name__ == '__main__':
             print(e)
             serialConnection.close
             break
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/EZFT684Vp1JHs0ERVw2vBu8BnXmsksYpRi_P_c1vh-XzBw
