@@ -1,0 +1,7 @@
+0 Pais: Mexico estado: Queretaro matricula: UNR-61-98-T
+1 Pais: Mexico estado: AGUASCALIENTES matricula: not identificada matricula
+2 Pais: Canada estado: British Columbia matricula: CD#/172
+3 Pais: Mexico estado: CHIHUAHUA matricula: not identificada matricula
+4 Pais: Mexico estado: TABASCO matricula: not identificada matricula
+5 Pais: CUBA estado: no estado matricula: DB268
+no identificada ar,ase,x,te,‘~,Ci,<_<,..,a),4,a,i,SS,use,©),Le,9,A,a,{,y,Si,Siaeauted,
