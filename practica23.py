@@ -17,9 +17,9 @@ def sendEmail():
         mensage = 'Aguien se acerco mucho al sensor!!!! ' + ' ' + str(fecha)
 
         # setup de los parametros del msge
-        password = "11235813Cmm*"
-        msge['From'] = "carlostestuacj@gmail.com"
-        msge['To'] = "cmiguelezmachado@gmail.com"
+        password = ""
+        msge['From'] = ""
+        msge['To'] = ""
         msge['Subject'] = "practica23"
 
 
