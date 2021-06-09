@@ -17,9 +17,9 @@ fecha = now.strftime('%d-%m-%Y %H:%M:%S')
 mensage = 'Echale ganas a la clase de progra o si on conacyt te qitara la beca ahora te adjunto un archivo' + ' ' + str(fecha)
 
 # setup de los parametros del msge
-password = "11235813Cmm*"
-msge['From'] = "carlostestuacj@gmail.com"
-msge['To'] = "carlostestuacj@gmail.com"
+password = ""
+msge['From'] = ""
+msge['To'] = ""
 msge['Subject'] = "correo de prueba con adjunto"
 
 
