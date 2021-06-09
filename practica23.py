@@ -61,8 +61,6 @@ while True:
         print("sending email")
         sendEmail()
 
-# link del video
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/ET5zkcYTKutFsxIQ9gglWIABUFiVlO4GwgmTK_7ifuNzbQ
 
 
 
