@@ -84,7 +84,5 @@ for i in range(15):
 
 sendEmail()
 
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/EUiqNLF-0d5CqbxYLG75VSEBR3RLCs6Ws1zlTagSWmlaKQ
-
 
     
