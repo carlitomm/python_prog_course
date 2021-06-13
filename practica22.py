@@ -32,5 +32,3 @@ while True:
         openweb = False
         webbrowser.open_new_tab("https://youtu.be/FsW7nHsoHxo")
         file.write(str(datetime.datetime.now())+"\n")
-
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/EXXv069Td7VBlbnmAURiw9YBABMqu0Ghp_pASG0g-YIvJw
