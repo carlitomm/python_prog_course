@@ -44,5 +44,3 @@ while True:
         value = board.analog[0].read()*5
         print(value)
         multimetro(value)
-
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/EbDN9s4W2g9Evh_aFtYZsGABmqnI32v_mRtIlOU8AoWuSg
