@@ -74,5 +74,3 @@ if __name__ == '__main__':
 
     except Exception as e:
         print(e)
-
-# video https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/EXP20_16SMFDs85-0-kpYtMByGzh0xHnDuE9hdCf9Tywuw
