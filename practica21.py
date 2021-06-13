@@ -73,5 +73,3 @@ while True:
         rebote()
     else:
         print("seleccione comando correcto")
-
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/Eelqz6FDbZZElplsLqawJ9MB34u3OGasNrsAuoapUsSYIg
