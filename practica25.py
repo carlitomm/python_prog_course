@@ -49,8 +49,3 @@ while True:
         report2PFD(array)
         counter += 1
     print(data)
-
-# El sensor usado en arduino es un MPU6050 gyroscopio para medir las rotaciones en los ejes x,y 
-# las mismas se almacenaron en un archivo pdf las primeras 50 tomadas. El nombre del fichero pdf es la fecha y la hora con la que fue creado.
-
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/EeCXbqNcGd1Jo9NfP2cCpnYBElWXPgckZznGQq1RmH03gA
