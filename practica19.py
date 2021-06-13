@@ -18,5 +18,3 @@ print(dic)
 # 'window': 1, 'sick': 1, 'east': 1, 'breaks': 1,
 # 'grief': 1, 'with': 1, 'light': 1, 'It': 1, 'Arise': 1,
 # 'kill': 1, 'the': 3, 'soft': 1, 'Juliet': 1}
-
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/EclWXMaF_WNJsJKwJeydXNgBayqLeIH4i_jl6MxeQsKfSA
