@@ -56,7 +56,3 @@ anim = animation.FuncAnimation(
 plt.show()
 
 serialConnection.close()
-
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/Eekgg9zO_UBJnbFiC03X59oB4_Zx1uwFhDVYSbRtO6dTFw
-
-
