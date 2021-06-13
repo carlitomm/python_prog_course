@@ -32,5 +32,3 @@ for i in authors:
         author = i
 
 print ("El autor con mayor número de emails mandados es " + author + " con " + str(gratest_value) + " emails enviados") 
-
-# https://alumnosuacj-my.sharepoint.com/:v:/g/personal/al206563_alumnos_uacj_mx/EYznxDHB-oJCjVrRJgdx8vUBZtfMmrKMoWA9-KL9uRJuSA
